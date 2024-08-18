@@ -1,0 +1,1 @@
+let r = Math.floor(Math.random() * 10) + 1; // generates random number from 1 to 10
